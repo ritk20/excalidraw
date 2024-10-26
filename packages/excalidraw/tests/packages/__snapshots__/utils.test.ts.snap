@@ -51,7 +51,7 @@ exports[`exportToSvg > with default arguments 1`] = `
   "gridSize": null,
   "isBindingEnabled": true,
   "isLoading": false,
-  "isResizing": false,
+  "isScaling": false,
   "isRotating": false,
   "lastPointerDownWith": "mouse",
   "multiElement": null,
